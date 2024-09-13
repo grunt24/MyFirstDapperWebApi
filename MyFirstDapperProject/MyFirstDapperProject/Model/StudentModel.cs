@@ -7,6 +7,7 @@ namespace MyFirstDapperProject.Model
     public class StudentModel
     {
         [Key]
+        [Column("StudentId")]
         public int StudentId { get; set; }
         [Column("First_Name")]
         public string FirstName { get; set; }

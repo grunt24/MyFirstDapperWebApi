@@ -9,5 +9,6 @@ namespace MyFirstDapperProject.Repository
 {
     public class StudentRepository : GenericRepository<StudentModel>
     {
+
     }
 }

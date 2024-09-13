@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "r9zEjex+98SbjylYXHNYrCEdJjNtQ1FspFZAMiXsVLe3i4obJVKbb4ETepvPI6sSua0Kh9x27FoU51eNWwBxBQ==",
+  "dgSpecHash": "gO5So6LatscCcZRijINVVjF810aigsTdSqQrB7cY0ODTKPT+nHEuOzAjuuwvmy/knyVs3A1n3tlogqVfwi4icA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\MyFirstDapperProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brent Jay\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\Brent Jay\\.nuget\\packages\\dapper.sqlbuilder\\2.0.78\\dapper.sqlbuilder.2.0.78.nupkg.sha512",
+    "C:\\Users\\Brent Jay\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Brent Jay\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Brent Jay\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Brent Jay\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Brent Jay\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",

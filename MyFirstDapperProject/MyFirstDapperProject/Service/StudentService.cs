@@ -10,20 +10,32 @@ namespace MyFirstDapperProject.Service
 {
     public class StudentService 
     {
-        StudentRepository _studentRepository;
+        StudentRepository _studentRepository = new StudentRepository();
 
-        public StudentModel GetStudentById(int id)
+        public async Task<IEnumerable<StudentModel>> GetAll()
         {
-            _studentRepository = new StudentRepository();
-            return _studentRepository.GetById(id);
+            return await _studentRepository.GetAll();
         }
 
         public bool AddStudent(StudentModel student)
-        {
-            _studentRepository = new StudentRepository();
+        {   
             return _studentRepository.Add(student);
         }
 
-        //public StudentModel 
+        public async Task<bool> Update(StudentModel data)
+        {
+                return await _studentRepository.Update(data);
+        }
+
+        public async Task<StudentModel> GetById(int id)
+        {
+            return await _studentRepository.GetById(id);
+        }
+
+        public async Task<bool> DeleteStudent(StudentModel studentModel)
+        {
+            return await _studentRepository.Delete(studentModel);
+        }
     }
+
 }

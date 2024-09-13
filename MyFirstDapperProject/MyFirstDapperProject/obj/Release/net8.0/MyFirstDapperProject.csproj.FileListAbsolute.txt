@@ -1,0 +1,13 @@
+C:\Users\Brent Jay\Desktop\MyFirstWebAPi\MyFirstDapperProject\MyFirstDapperProject\bin\Release\net8.0\MyFirstDapperProject.deps.json
+C:\Users\Brent Jay\Desktop\MyFirstWebAPi\MyFirstDapperProject\MyFirstDapperProject\bin\Release\net8.0\MyFirstDapperProject.dll
+C:\Users\Brent Jay\Desktop\MyFirstWebAPi\MyFirstDapperProject\MyFirstDapperProject\bin\Release\net8.0\MyFirstDapperProject.pdb
+C:\Users\Brent Jay\Desktop\MyFirstWebAPi\MyFirstDapperProject\MyFirstDapperProject\obj\Release\net8.0\MyFirstDapperProject.csproj.AssemblyReference.cache
+C:\Users\Brent Jay\Desktop\MyFirstWebAPi\MyFirstDapperProject\MyFirstDapperProject\obj\Release\net8.0\MyFirstDapperProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brent Jay\Desktop\MyFirstWebAPi\MyFirstDapperProject\MyFirstDapperProject\obj\Release\net8.0\MyFirstDapperProject.AssemblyInfoInputs.cache
+C:\Users\Brent Jay\Desktop\MyFirstWebAPi\MyFirstDapperProject\MyFirstDapperProject\obj\Release\net8.0\MyFirstDapperProject.AssemblyInfo.cs
+C:\Users\Brent Jay\Desktop\MyFirstWebAPi\MyFirstDapperProject\MyFirstDapperProject\obj\Release\net8.0\MyFirstDapperProject.csproj.CoreCompileInputs.cache
+C:\Users\Brent Jay\Desktop\MyFirstWebAPi\MyFirstDapperProject\MyFirstDapperProject\obj\Release\net8.0\MyFirstDapperProject.sourcelink.json
+C:\Users\Brent Jay\Desktop\MyFirstWebAPi\MyFirstDapperProject\MyFirstDapperProject\obj\Release\net8.0\MyFirstDapperProject.dll
+C:\Users\Brent Jay\Desktop\MyFirstWebAPi\MyFirstDapperProject\MyFirstDapperProject\obj\Release\net8.0\refint\MyFirstDapperProject.dll
+C:\Users\Brent Jay\Desktop\MyFirstWebAPi\MyFirstDapperProject\MyFirstDapperProject\obj\Release\net8.0\MyFirstDapperProject.pdb
+C:\Users\Brent Jay\Desktop\MyFirstWebAPi\MyFirstDapperProject\MyFirstDapperProject\obj\Release\net8.0\ref\MyFirstDapperProject.dll

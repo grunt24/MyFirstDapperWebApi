@@ -7,6 +7,38 @@
       "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|solutionrelative:myfirstdapperwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperproject\\model\\enrollmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\model\\enrollmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperproject\\service\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\service\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperproject\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperproject\\repository\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\repository\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperproject\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperwebapi\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|solutionrelative:myfirstdapperwebapi\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperwebapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|solutionrelative:myfirstdapperwebapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|solutionrelative:myfirstdapperwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,52 +47,8 @@
       "RelativeMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|solutionrelative:myfirstdapperwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperproject\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperproject\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperproject\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperwebapi\\myfirstdapperwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|solutionrelative:myfirstdapperwebapi\\myfirstdapperwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperwebapi\\myfirstdapperwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|solutionrelative:myfirstdapperwebapi\\myfirstdapperwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|solutionrelative:myfirstdapperwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperwebapi\\myfirstdapperwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{FFB3F217-5110-42D4-B899-16BA2571D988}|MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj|solutionrelative:myfirstdapperwebapi\\myfirstdapperwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperproject\\repository\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\repository\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperproject\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperproject\\myfirstdapperproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\myfirstdapperproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperproject\\model\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\model\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|c:\\users\\brent jay\\desktop\\myfirstwebapi\\myfirstdapperproject\\myfirstdapperproject\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{837B6E65-7EE2-423B-A753-014CA8B09C91}|MyFirstDapperProject\\MyFirstDapperProject.csproj|solutionrelative:myfirstdapperproject\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,59 +58,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 181,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "MyFirstDapperWebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\Program.cs",
-              "RelativeToolTip": "MyFirstDapperWebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "DocumentIndex": 5,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Repository\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "MyFirstDapperProject\\Repository\\EnrollmentRepository.cs",
+              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Repository\\EnrollmentRepository.cs",
+              "RelativeToolTip": "MyFirstDapperProject\\Repository\\EnrollmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T12:30:04.34Z",
+              "WhenOpened": "2024-09-11T10:45:43.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "MyFirstDapperWebApi\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "MyFirstDapperWebApi\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Model\\EnrollmentModel.cs",
+              "RelativeDocumentMoniker": "MyFirstDapperProject\\Model\\EnrollmentModel.cs",
+              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Model\\EnrollmentModel.cs",
+              "RelativeToolTip": "MyFirstDapperProject\\Model\\EnrollmentModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T12:02:59.968Z",
+              "WhenOpened": "2024-09-11T10:52:01.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "MyFirstDapperWebApi\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "MyFirstDapperWebApi\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:45:14.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Service\\StudentService.cs",
               "RelativeDocumentMoniker": "MyFirstDapperProject\\Service\\StudentService.cs",
               "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Service\\StudentService.cs",
               "RelativeToolTip": "MyFirstDapperProject\\Service\\StudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T08:36:08.298Z",
+              "WhenOpened": "2024-09-11T10:45:36.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CourseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Repository\\CourseRepository.cs",
-              "RelativeDocumentMoniker": "MyFirstDapperProject\\Repository\\CourseRepository.cs",
-              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Repository\\CourseRepository.cs",
-              "RelativeToolTip": "MyFirstDapperProject\\Repository\\CourseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 9,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MyFirstDapperWebApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MyFirstDapperWebApi\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T08:34:23.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T10:17:25.695Z"
             },
             {
               "$type": "Document",
@@ -132,139 +132,86 @@
               "RelativeDocumentMoniker": "MyFirstDapperProject\\Repository\\GenericRepository.cs",
               "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Repository\\GenericRepository.cs",
               "RelativeToolTip": "MyFirstDapperProject\\Repository\\GenericRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T06:55:07.949Z",
+              "WhenOpened": "2024-09-11T10:16:58.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstDapperWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\Program.cs",
+              "RelativeToolTip": "MyFirstDapperWebApi\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:16:42.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StudentModel.cs",
-              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Model\\StudentModel.cs",
-              "RelativeDocumentMoniker": "MyFirstDapperProject\\Model\\StudentModel.cs",
-              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Model\\StudentModel.cs",
-              "RelativeToolTip": "MyFirstDapperProject\\Model\\StudentModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Service\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "MyFirstDapperProject\\Service\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Service\\EnrollmentService.cs",
+              "RelativeToolTip": "MyFirstDapperProject\\Service\\EnrollmentService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T06:53:16.747Z",
+              "WhenOpened": "2024-09-11T10:45:40.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "MyFirstDapperWebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\appsettings.json",
-              "RelativeToolTip": "MyFirstDapperWebApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-06T12:32:43.111Z",
+              "DocumentIndex": 4,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Service\\CourseService.cs",
+              "RelativeDocumentMoniker": "MyFirstDapperProject\\Service\\CourseService.cs",
+              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Service\\CourseService.cs",
+              "RelativeToolTip": "MyFirstDapperProject\\Service\\CourseService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:10:25.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MyFirstDapperWebApi.http",
-              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\MyFirstDapperWebApi.http",
-              "RelativeDocumentMoniker": "MyFirstDapperWebApi\\MyFirstDapperWebApi.http",
-              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\MyFirstDapperWebApi.http",
-              "RelativeToolTip": "MyFirstDapperWebApi\\MyFirstDapperWebApi.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-06T12:30:12.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MyFirstDapperWebApi.csproj",
-              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj",
-              "RelativeDocumentMoniker": "MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj",
-              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj",
-              "RelativeToolTip": "MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-20T08:55:18.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MyFirstDapperWebApi",
-              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj",
-              "RelativeDocumentMoniker": "MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj",
-              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj",
-              "RelativeToolTip": "MyFirstDapperWebApi\\MyFirstDapperWebApi.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-06T12:32:39.946Z",
+              "DocumentIndex": 8,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "MyFirstDapperWebApi\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "MyFirstDapperWebApi\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:58:42.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Repository\\Interface\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "MyFirstDapperProject\\Repository\\Interface\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Repository\\Interface\\IGenericRepository.cs",
-              "RelativeToolTip": "MyFirstDapperProject\\Repository\\Interface\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T06:55:23.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MyFirstDapperProject",
-              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\MyFirstDapperProject.csproj",
-              "RelativeDocumentMoniker": "MyFirstDapperProject\\MyFirstDapperProject.csproj",
-              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\MyFirstDapperProject.csproj",
-              "RelativeToolTip": "MyFirstDapperProject\\MyFirstDapperProject.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-06T11:50:02.849Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MyFirstDapperWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\appsettings.json",
+              "RelativeToolTip": "MyFirstDapperWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T10:16:49.193Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Repository\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "MyFirstDapperProject\\Repository\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Repository\\StudentRepository.cs",
-              "RelativeToolTip": "MyFirstDapperProject\\Repository\\StudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T07:04:51.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Repository\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "MyFirstDapperProject\\Repository\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Repository\\IStudentRepository.cs",
-              "RelativeToolTip": "MyFirstDapperProject\\Repository\\IStudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T09:24:32.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CourseModel.cs",
-              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Model\\CourseModel.cs",
-              "RelativeDocumentMoniker": "MyFirstDapperProject\\Model\\CourseModel.cs",
-              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperProject\\Model\\CourseModel.cs",
-              "RelativeToolTip": "MyFirstDapperProject\\Model\\CourseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T06:53:59.233Z",
-              "EditorCaption": ""
+              "Title": "MyFirstDapperWebApi.http",
+              "DocumentMoniker": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\MyFirstDapperWebApi.http",
+              "RelativeDocumentMoniker": "MyFirstDapperWebApi\\MyFirstDapperWebApi.http",
+              "ToolTip": "C:\\Users\\Brent Jay\\Desktop\\MyFirstWebAPi\\MyFirstDapperProject\\MyFirstDapperWebApi\\MyFirstDapperWebApi.http",
+              "RelativeToolTip": "MyFirstDapperWebApi\\MyFirstDapperWebApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-11T10:16:47.543Z"
             }
           ]
         }

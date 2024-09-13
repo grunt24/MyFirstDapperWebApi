@@ -1,3 +1,7 @@
+using MyFirstDapperProject.Model;
+using MyFirstDapperProject.Repository;
+using MyFirstDapperProject.Repository.Interface;
+using MyFirstDapperProject.Service;
 
 namespace MyFirstDapperWebApi
 {
@@ -9,7 +13,22 @@ namespace MyFirstDapperWebApi
 
             // Add services to the container.
 
+            builder.Services.AddCors(options =>
+            {
+
+                options.AddDefaultPolicy(builder =>
+                {
+                    builder.SetIsOriginAllowed(origin => new Uri(origin).Host == "localhost");
+                           //.AllowAnyOrigin()
+                           //.AllowAnyHeader()
+                           //.AllowAnyMethod();
+                });
+            });
+
             builder.Services.AddControllers();
+
+            //builder.Services.AddSingleton<DapperContext>();
+
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
@@ -17,16 +36,16 @@ namespace MyFirstDapperWebApi
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
+            if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
 
+            app.UseCors();
             app.UseHttpsRedirection();
-
+            app.UseAuthentication();
             app.UseAuthorization();
-
 
             app.MapControllers();
 
